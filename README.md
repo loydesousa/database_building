@@ -7,4 +7,4 @@ Para a execução desse teste recomendo que seja baixado o Visual Studio Code, s
 
 -- Clone o repositório em sua máquina para melhor observação dos códigos. 
 
--- API utilizada para esse teste foi a da Câmara dos Deputados, devido a restrição de 15 itens por requisição, pedimos para nossa api trazer apenas os 15 itens que serão guardados a cada requisição no banco de dados chamado de 'camaradeputados'.
+-- API utilizada para esse projeto nos retorna os dados diretos sem paginação, algo comum em algo api com a arquitetura REST, vamos trabalhar com as corretoras brasileiras, pois um mundo das finanças nos ensina muito sobre uma análise precisa e atenta dos dados.
